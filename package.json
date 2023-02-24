@@ -1,0 +1,19 @@
+{
+  "name": "contact-manager",
+  "version": "1.0.0",
+  "description": "This app is using the Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Arman Mokhtari",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.14.1",
+    "chalk": "^4.1.2"
+  },
+  "dependencies": {
+    "yargs": "^17.7.1"
+  }
+}
